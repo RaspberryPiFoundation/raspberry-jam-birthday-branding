@@ -1,6 +1,6 @@
 # Raspberry Jam Birthday branding pack
 
-This is the branding pack for the [Raspberry Jam Big Birthday Weekend](https://www.raspberrypi.org/jam/big-birthday-weekend/), provided by the [Raspberry Pi Foundation](https://www.raspberrypi.org/) for people running [Raspberry Jams](https://www.raspberrypi.org/jam/) to use to promote their birthday weekend events.
+This is the branding pack for the [Raspberry Jam Big Birthday Weekend 2019](https://www.raspberrypi.org/jam/big-birthday-weekend/), provided by the [Raspberry Pi Foundation](https://www.raspberrypi.org/) for people running [Raspberry Jams](https://www.raspberrypi.org/jam/) to use to promote their birthday weekend events.
 
 Branding assets are provided in multiple formats, allowing use with Photoshop, GIMP, MS Word and more.
 
@@ -43,4 +43,4 @@ Please follow the [branding guidelines](Raspberry-Jam-Brand-Guidelines.pdf) when
 
 ## Last updated
 
-Last updated 2018-03-08
+Last updated 2018-10-03
